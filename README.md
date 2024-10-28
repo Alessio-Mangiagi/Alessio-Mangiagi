@@ -32,10 +32,10 @@ crescere professionalmente.
 
 
 <a href=https://github.com/Alessio-Mangiagi/Alessio-Mangiagi-Test>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alessio-Mangiagi-Test&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alessio-Mangiagi-Test&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 <!--
 **Alessio-Mangiagi/Alessio-Mangiagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
