@@ -2,7 +2,7 @@
 
 Sono Mangiagi Alessio Data analyst e front-end developer
 
-Appassionato di tecnologie e con una estrema voglia di sperimentare. Nel percorso formativo appena concluso ho imparato a manipolare i dati tramite SQL , Pythone, Power Query e l’arte della visualizzazione tramite Excel, Google looker studio e Power BI. Desideroso di mettere in pratica le competenze acquisite e di crescere professionalmente. 
+Appassionato di tecnologie e con una estrema voglia di sperimentare. Nel percorso formativo appena concluso ho imparato a manipolare i dati tramite SQL , Python, Power Query e l’arte della visualizzazione tramite Excel, Google looker studio e Power BI. Desideroso di mettere in pratica le competenze acquisite e di crescere professionalmente. 
 
 
 ### Linguaggi e software
